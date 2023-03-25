@@ -6,11 +6,6 @@
   --title-color: #000000;
   --btn-focus-color: #0f6c51;
 }
-*,
-::before,
-::after {
-  /* outline: 1px solid teal; */
-}
 
 h1,
 h2,
