@@ -99,7 +99,7 @@ body {
 .hero {
   padding-top: 175px;
   background-image: url(../img/BG.jpg);
-  background-size: 100%;
+  background-size: cover;
   height: 900px;
 }
 .hero h1 {
